@@ -1,0 +1,30 @@
+h1{
+    background-color: red;
+    color: white;
+    border: 10px;
+    margin: 3px;
+    padding: 4px;
+    width: 12;
+}
+h2{
+    width: max-content;
+    height: 180%;
+    font-size: 44px;
+}
+#feed{
+    background-color: red;
+    color: white;
+    padding: 24px;
+    margin: 12px;
+}
+button{
+    background-color: blue;
+    color: white;
+    font-size: larger;
+    padding-left: 22px;
+    
+}
+#but{
+    background-color: white;
+    color: black;
+}

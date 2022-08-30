@@ -1,3 +1,6 @@
+body{
+    margin: 0%;
+}
 h1{
     background-color: red;
     color: white;
@@ -10,6 +13,16 @@ h2{
     width: max-content;
     height: 180%;
     font-size: 44px;
+}
+a{
+    width: fit-content;
+    height: fit-content;
+    background-color: aqua;
+
+    
+}
+a:hover{
+    background-image: linear-gradient(cyan, gold);
 }
 #feed{
     background-color: red;
@@ -27,4 +40,7 @@ button{
 #but{
     background-color: white;
     color: black;
+}
+img{
+    border-radius: 10px;
 }

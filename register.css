@@ -1,5 +1,6 @@
 body{
     background-color: rgb(245, 245, 187);
+    margin: 0px;
 }
 .main{
     width: 1569px;
@@ -8,6 +9,13 @@ body{
     background-color:white ;
     margin-top: 45px;
 }
+marquee{
+    font-size: 24px;
+    background-image: linear-gradient(blue, black);
+    margin-top: 3px;
+    
+
+    }
 
 .alto{
     width: 30%;
@@ -19,12 +27,11 @@ body{
     
 }
 
-
 .first{
 
     text-align: center;
     
-    padding-top: 10%;
+    padding-top: 6%;
     font-size: larger;
     font-size: 45px;
     font-size:largeR;
@@ -169,12 +176,15 @@ body{
     text-align: center;
     padding-top: 7px;   
 }
+.sixth:hover{
+    background-color: blue;
+}
 #sixth{
     float:left;
     font-size: small;
     margin-left: 143PX;
     margin-top: 1PX;
-    color: rgb(200, 200, 200);;
+    color: rgb(200, 200, 200);
 }
 #seventh{
     float: right;
@@ -184,7 +194,7 @@ body{
     margin-top: 1PX;
 }
 .seconddiv{
-   margin-right: 362.5px;
+   margin-right: 364.5px;
    float: right;
    /* width: 450px; */
    height: 670px;   

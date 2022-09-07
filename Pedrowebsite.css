@@ -177,13 +177,56 @@ img:hover{
     width: 310px;
     height: 310px;
 }
-
+.epl1{
+    height: 944px;
+}
+.epl2{
+    margin-top: 300px;
+}
+.epl3{
+    margin-top: -161px;
+}
+.epl4{
+    margin-top: -151px;
+}
+.epl5{
+    margin-top: -171px;
+}
+.epl6{
+    margin-top: -180px;
+}
 .gw{
     float: center;
     font-size: 36px;
     color: red;
+    
 }
+
 .mb{
+    text-align: center;
+    font-size: 26px;
+    color: red;
+    
+}
+.mw{
+    float: center;
+    font-size: 36px;
+    color: red;
+    margin-top: 0px;
+}
+.gb{
+    text-align: center;
+    font-size: 26px;
+    color: red;
+    
+}
+.tw{
+    float: center;
+    font-size: 36px;
+    color: red;
+    
+}
+.tb{
     text-align: center;
     font-size: 26px;
     color: red;
@@ -191,6 +234,12 @@ img:hover{
 }
 
 .score {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 290px;
+}
+.scor {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -210,7 +259,7 @@ img:hover{
 #link{
     width: fit-content;
     height: fit-content;
-    background-color: aqua;
+   
     border-radius: 10px;
 }
 .link{
@@ -219,4 +268,9 @@ img:hover{
 #link:hover{
     background-color: red;
     color: white;
+}
+.scoro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
